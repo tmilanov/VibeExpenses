@@ -11,13 +11,9 @@ A clean, dark-themed desktop app for tracking personal income and expenses — b
 
 ## Screenshots
 
-| Dashboard | Transactions |
+| Dashboard |
 |---|---|
 | ![Dashboard](screenshots/dashboard.png) | ![Transactions](screenshots/transactions.png) |
-
-| Income vs Expenses | Spending by Tag | Balance Trend |
-|---|---|---|
-| ![Bar chart](screenshots/chart_bar.png) | ![Donut chart](screenshots/chart_donut.png) | ![Trend chart](screenshots/chart_trend.png) |
 
 ---
 
