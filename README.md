@@ -42,8 +42,8 @@ A clean, dark-themed desktop app for tracking personal income and expenses — b
 ### Install & Run
 
 ```bash
-git clone https://github.com/tmilanov/vibe-expenses.git
-cd vibe-expenses
+git clone https://github.com/tmilanov/VibeExpenses.git
+cd VibeExpenses
 
 pip install -r requirements.txt
 
