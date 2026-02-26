@@ -1,0 +1,29 @@
+# ── Data (personal, never commit) ─────────────────────────────────────────────
+expenses.db
+expenses.db-shm
+expenses.db-wal
+
+# ── Python ─────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.env
+venv/
+.venv/
+
+# ── PyInstaller build output ───────────────────────────────────────────────────
+build/
+dist/
+*.spec
+
+# ── Screenshot generator (one-off dev scripts) ─────────────────────────────────
+generate_screenshots.py
+generate_screenshots.bat
+
+# ── IDE / editor local config ──────────────────────────────────────────────────
+.claude/
+.vscode/
+.idea/
